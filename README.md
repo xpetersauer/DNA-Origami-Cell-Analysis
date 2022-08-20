@@ -21,3 +21,5 @@ The cell images used for this project are provided, if you are interested in run
 # Disclaimer
 While the project intended on quantifying patchiness by comparing average intensities to a uniform distribution, this method is not complete in quantifying patchiness, as comparing the distribution of DNA Origami to a uniform distribution cannot exemplify topological shape of the distribution. A better method would be to compare the image via a power-law clustering method to analyze the image analogously to a scale-free-network.
 
+# Having Issues Using the Code?
+If you are having issues using the code, please feel free to contact me at "p j s a u e r AT gmail DOT com." Alternatively, feel free to describe your issue under [Github Issues](https://github.com/xpetersauer/DNA-Origami-to-PyTorch-Geometric-Dataset/issues)
