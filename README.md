@@ -1,4 +1,4 @@
-# Analyze your DNA Origami Distribution on Your Cell Microscopy Images
+# Analyze your DNA Origami Distribution on Your Cell Images
 This repository was my Spring 2022 Project: A Data Visualizer for DNA Origami Distribution for Non-expert audiences.
 
 # Acknowledgements:
