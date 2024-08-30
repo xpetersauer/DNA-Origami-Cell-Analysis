@@ -9,17 +9,17 @@ The algorithm for my code is lightly inspired by the method for analyzing Recept
 Aymerich, María S et al. “Real-time G-protein-coupled receptor imaging to understand and quantify receptor dynamics.” TheScientificWorldJournal vol. 11 (2011): 1995-2010. doi:10.1100/2011/690858 [ResearchGate](https://www.researchgate.net/publication/51834317_Real-Time_G-Protein-Coupled_Receptor_Imaging_to_Understand_and_Quantify_Receptor_Dynamics)
 
 # Sample Images Provided
-The cell images used for this project are provided, if you are interested in running this code.
+The cell images used for this project are provided if you are interested in running this code.
 
 # How to Use the Code:
 1. Download the file
-- If you plan on uing the sample images, download these as well
-2. Edit the filepath/directory containing your images
+- If you plan on using the sample images, download these as well
+2. Edit the file path/directory containing your images
 3. Run all the cells
 - You may need to edit for "undefined value" errors if you plan on modifying this code, as it was primarily intended solely for my use
 
 # Disclaimer
-While the project intended on quantifying patchiness by comparing average intensities to a uniform distribution, this method is not complete in quantifying patchiness, as comparing the distribution of DNA Origami to a uniform distribution cannot exemplify topological shape of the distribution. A better method would be to compare the image via a power-law clustering method to analyze the image analogously to a scale-free-network.
+While the project intended to quantify patchiness by comparing average intensities to a uniform distribution, this method is not complete in quantifying patchiness, as comparing the distribution of DNA Origami to a uniform distribution cannot exemplify the topological shape of the distribution. A better method would be to compare the image via a power-law clustering method to analyze the image analogously to a scale-free network.
 
 # Having Issues Using the Code?
 If you are having issues using the code, please feel free to contact me at "p j s a u e r AT gmail DOT com." Alternatively, feel free to describe your issue under [Github Issues](https://github.com/xpetersauer/DNA-Origami-to-PyTorch-Geometric-Dataset/issues)
